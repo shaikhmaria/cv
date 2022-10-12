@@ -1,0 +1,39 @@
+
+ body {
+   background-color:#99B898;
+ }
+
+ hr {
+   background-color:;
+   border-style:none;
+   border-top-style:dotted;
+   border-color:#6D8B74;
+   border-width:5px;
+   width:3%;
+
+ }
+
+ h1 {
+   font-family:"Lucida Handwriting", cursive;
+   color:#557C55
+ }
+
+ h3 {
+   color:#557C55
+ }
+
+ ul {
+   font-family: "Comic Sans MS",Comic Sans MS;
+ }
+
+ ol {
+   font-family: "Comic Sans MS",Comic Sans MS;
+}
+
+ td {
+   font-family: "Comic Sans MS",Comic Sans MS;
+ }
+ label {
+   font-family: "Comic Sans MS",Comic Sans MS;
+   
+ }
