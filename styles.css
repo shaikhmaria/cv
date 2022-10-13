@@ -10,8 +10,16 @@
    border-color:#6D8B74;
    border-width:5px;
    width:3%;
+   }
 
- }
+img:hover{
+  background-color:#557C55;
+}
+
+
+
+
+
 
  h1 {
    font-family:"Lucida Handwriting", cursive;
@@ -35,5 +43,13 @@
  }
  label {
    font-family: "Comic Sans MS",Comic Sans MS;
-   
+
+ }
+
+ .woman {
+   background-color:#99B898;
+ }
+
+
+
  }
